@@ -4,13 +4,11 @@
 
 <script>
 export default {
-    name: 'menu',
-    data() {
-        return{}
-    }
-}
+  name: "k-menu",
+  data() {
+    return {};
+  },
+};
 </script>
 
-<style>
-
-</style>
+<style></style>
